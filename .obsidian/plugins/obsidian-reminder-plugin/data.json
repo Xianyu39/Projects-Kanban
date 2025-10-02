@@ -1,0 +1,51 @@
+{
+  "scanned": true,
+  "reminders": {
+    "check-in/2025-W39.md": [
+      {
+        "title": "写作的打卡任务",
+        "time": "2025-09-29",
+        "rowNumber": 7
+      }
+    ],
+    "logs/2025-09.md": [
+      {
+        "title": "分析一下现有的数据，根据错误数据决定下一步优化方向",
+        "time": "2025-09-29 13:00",
+        "rowNumber": 10
+      }
+    ],
+    "check-in/2025-W40.md": [
+      {
+        "title": "写作的打卡任务",
+        "time": "2025-10-06",
+        "rowNumber": 7
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "reminderTimeStep": 15,
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "（@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "yearMonthDisplayFormat": "YYYY, MMMM",
+    "monthDayDisplayFormat": "MM/DD",
+    "shortDateWithWeekdayDisplayFormat": "M/DD (ddd)",
+    "timeDisplayFormat": "HH:mm",
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5,
+    "weekStart": "1"
+  }
+}

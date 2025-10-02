@@ -1,0 +1,33 @@
+formulas:
+  未命名: ""
+properties:
+  file.links:
+    displayName: 链接到
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.tags.contains("计划书")
+        - file.folder != "templates"
+    order:
+      - file.name
+      - file.ctime
+      - archived
+      - file.tags
+      - file.links
+    sort:
+      - property: formula.未命名
+        direction: ASC
+      - property: file.ctime
+        direction: ASC
+      - property: file.backlinks
+        direction: ASC
+      - property: archived
+        direction: DESC
+    columnSize:
+      file.name: 111
+      file.ctime: 171
+      note.archived: 51
+      file.tags: 233
+      file.links: -24

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"f9e20e76f7d39db7","x":-160,"y":-30,"width":250,"height":150,"color":"1","type":"text","text":"课题思考，直觉上可用的方案：\n1. 用字典识别文本\n2. 用模型识别文本"},
+		{"id":"be02bd2717f99a82","x":640,"y":-30,"width":240,"height":150,"type":"text","text":"字典如何构建？"},
+		{"id":"561571ba853c8c00","x":1000,"y":-30,"width":240,"height":150,"type":"text","text":"……"},
+		{"id":"b0adbfa457d852b4","x":200,"y":-30,"width":300,"height":150,"type":"text","text":"字典识别：\n1. 构建字典的先决问题：什么样的文本是我们说的「重要概念」？"},
+		{"id":"661322921d2899b1","type":"text","text":"模型识别：\n1. 一样需要定义相关的概念\n2. 需要训练集","x":200,"y":240,"width":300,"height":150,"color":"2"},
+		{"id":"51ccbf8a3da98650","type":"text","text":"模型如何训练？","x":640,"y":240,"width":300,"height":150,"color":"2"}
+	],
+	"edges":[
+		{"id":"8b0bfbac2296e5b5","fromNode":"f9e20e76f7d39db7","fromSide":"right","toNode":"b0adbfa457d852b4","toSide":"left"},
+		{"id":"7265972baa344afe","fromNode":"b0adbfa457d852b4","fromSide":"right","toNode":"be02bd2717f99a82","toSide":"left"},
+		{"id":"ba92cefd7bd69998","fromNode":"be02bd2717f99a82","fromSide":"right","toNode":"561571ba853c8c00","toSide":"left"},
+		{"id":"8c19d6b62ad5a035","fromNode":"f9e20e76f7d39db7","fromSide":"right","toNode":"661322921d2899b1","toSide":"left"},
+		{"id":"cc3a68c0b9be1166","fromNode":"b0adbfa457d852b4","fromSide":"bottom","toNode":"661322921d2899b1","toSide":"top","color":"5"},
+		{"id":"19d26ec6f24264bb","fromNode":"661322921d2899b1","fromSide":"right","toNode":"51ccbf8a3da98650","toSide":"left"}
+	]
+}

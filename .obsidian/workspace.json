@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "秋日团建策划/执行.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "执行"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5ea35bc30dc6535",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f98e2afe6e1fd6b",
+        "type": "tabs",
+        "dimension": 61.21495327102804,
+        "children": [
+          {
+            "id": "5d98b1ce0746149b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0620f34a901c05c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:计划书",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "227409ea490f917d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "07fc744067e2dc6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5487df7db92350bb",
+        "type": "tabs",
+        "dimension": 38.78504672897196,
+        "children": [
+          {
+            "id": "696ec5fbbc45facd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb7ca4fbdc3ce2ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d45c7b307f162cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9c98ec4bf23665b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "写作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "写作 的反向链接列表"
+            }
+          },
+          {
+            "id": "0c5316250966175a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "写作.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "写作 的出链列表"
+            }
+          },
+          {
+            "id": "2250b64c56bfdb24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "写作.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "写作 的大纲"
+            }
+          },
+          {
+            "id": "bd01e62525b92ef2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "cmdr:Periodic Notes: Open monthly note": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "秋日团建策划/秋日团建策划.md",
+    "秋日团建策划/调研.md",
+    "秋日团建策划/出方案.md",
+    "写作.md",
+    "科研.md",
+    "LICENCE",
+    "README.md",
+    "logs/2025-10.md",
+    "check-in/2025-W39.md",
+    "check-in/2025-W40.md",
+    "Untitled.md",
+    "🎉欢迎.md",
+    "templates/成长型计划书模板.md",
+    "templates/打卡记录模板.md",
+    "templates/打卡记录生成器.md",
+    "templates/探索型计划书模板.md",
+    "templates/功利计算型计划书模板.md",
+    "logs/2025-09.md",
+    "Bases/计划书列表：成长.base",
+    "Assets/Pasted image 20250927194830.png",
+    "templates/日志模板.md",
+    "秋日团建策划/执行.md",
+    "check-in",
+    "Canvas/科研-探索路径.canvas",
+    "科研计划.md",
+    "Bases/计划书列表.base",
+    "Canvas",
+    "Bases",
+    "科研.canvas",
+    "Bases/计划书列表：探索.base",
+    "Bases/计划书列表：功利计算.base",
+    "科研规划.md",
+    "未命名.base",
+    "2025-W39.md",
+    "logs",
+    "秋日团建策划/收尾.md",
+    "Assets/Pasted image 20250927134554.png",
+    "Assets/去哪团建？（如果没有你想去的选项，下面可.jpg",
+    "GTD任务.md"
+  ]
+}
